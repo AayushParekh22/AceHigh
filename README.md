@@ -35,7 +35,7 @@ AceHigh is a streamlined simulation model for the classic casino game Blackjack.
 ## Running the Game
 Once you have implemented the `Deck` class and the `BlackjackModel` class, you can interact with the game through the GUI. Run the main method in the `GUI/BlackjackGUI` class for a full gaming experience.
 
-[[Black Jack](BlackJack.mp4)](https://github.com/AayushParekh22/AayushParekh22.github.io/assets/117905515/cc7feacb-9c86-4316-8d21-89a74382febe)
+[Black Jack](BlackJack.mp4)
 
 ## Contributions
 While the model is robust, contributions to expand its features or improve the codebase are welcome. Potential enhancements include implementing additional Blackjack actions, refining the betting system, or optimizing the dealer logic.
